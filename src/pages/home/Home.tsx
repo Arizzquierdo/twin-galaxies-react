@@ -1,3 +1,5 @@
+import MessageList from "../../components/message-list/MessageList"
+
 export default function Home() {
   return (
     <>
@@ -16,6 +18,7 @@ export default function Home() {
           ></img>
         </div>
       </section>
+      <MessageList />
     </>
   );
 }

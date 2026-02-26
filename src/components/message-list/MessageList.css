@@ -1,0 +1,58 @@
+.message-list-main-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.message-form-container {
+  margin-top: 2em;
+  width: 80vw;
+}
+
+.message-list {
+  width: 80vw;
+}
+
+#message-form {
+  padding-top: 1em;
+  width: 100%;
+  border-width: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#message-form>input[type=text] {
+  width: 60vw;
+  margin-top: .5em;
+  text-align: center;
+  color: black;
+}
+
+input[type="submit"] {
+  background-color: #A65C5F;
+  color: aliceblue;
+  margin: 1em auto .75em;
+}
+
+.rounded-input {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.message-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 10px;
+  border: 2px solid #6A476E;
+  padding: .5em 1em;
+  margin: 1em;
+}
+
+.delete-message {
+  cursor: pointer;
+}

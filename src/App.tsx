@@ -7,8 +7,8 @@ import About from "./pages/about/About";
 import Gallery from "./pages/gallery/Gallery";
 import HallOfFame from "./pages/hall-of-fame/HallOfFame";
 import Home from "./pages/home/Home";
-import Records from "./pages/records/Records";
 import PlayTetris from "./pages/play-tetris/PlayTetris";
+import Records from "./pages/records/Records";
 
 function App() {
   return (
