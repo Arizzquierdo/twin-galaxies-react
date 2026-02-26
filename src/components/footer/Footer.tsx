@@ -17,15 +17,6 @@ export default function Footer() {
               <a href="/records">Records</a>
               <a href="/play-tetris">Play Tetris</a>
             </div>
-            <div className="logo-img">
-              <img
-                src="img/twin-galaxies-removebg-preview.png"
-                title="Twin Galaxies"
-                alt="Twin Galaxies"
-                width="150"
-                height="150"
-              ></img>
-            </div>
             <div className="social-links">
               <h4>FOLLOW THE ARCADE</h4>
               <img

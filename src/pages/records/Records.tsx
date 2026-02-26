@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import type { RecordData } from "../../types/RecordData";
+import type { RecordData } from "../../types/record-data";
 
 export default function Records() {
   const [records, setRecords] = useState<RecordData[]>(() => {
