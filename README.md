@@ -160,12 +160,12 @@ TWIN-GALAXIES-REACT
 ```
 
 ## 📚 Sources / References 
-
-- 📖 MDN - General guide for CSS,HTML and JS  
-- 📖 W3Schools – Typescript
-- 📖 TYPESCRIPTLANG.ORG – Languague fundamentals
-- 📖 Fireships - "The Basics" video
+- 📖 'PLAY TETRIS' part repository - https://github.com/cibulka/react-tetris-ts
+- 📖 Firebase docs
+- 📖 W3Schools – Typescript syntax and grammar
+- 📖 TYPESCRIPTLANG.ORG – Offical documentation for Typescript
 - 📖 Reddit - Folder Structure Scheme
 - 📖 Stack Overflow - Debugging
 - 📖 REACT.DEV - Build a React App from Scratch
+- 📖 MDN - General guide for CSS,HTML and JS  
 
