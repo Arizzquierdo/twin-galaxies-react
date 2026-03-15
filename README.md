@@ -12,10 +12,13 @@
 
 Now you can check my project without have to clone it :)
 
-# Inspo
+# Projects I took inspo to make mine
 > https://www.speedrun.com/
+
 > https://www.twingalaxies.com/
+
 # HiFi concept I made on Figma 
+![Gallery](https://raw.githubusercontent.com/Arizzquierdo/twin-galaxies-react/main/public/Twin-galaxies.png)
 
 # 📝 Overhead View of the Project
 
