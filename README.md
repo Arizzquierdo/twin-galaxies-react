@@ -20,8 +20,8 @@ Now you can check my project without have to clone it :)
 # HiFi concept I made on Figma 
 ![Gallery](https://raw.githubusercontent.com/Arizzquierdo/twin-galaxies-react/main/public/Twin-galaxies.png)
 
-#NEW ADDITION! RSS FEED
-
+# NEW ADDITION! RSS FEED
+![Gallery](https://github.com/Arizzquierdo/twin-galaxies-react/blob/main/public/Screenshot%202026-03-15%20at%2015-58-00%20twin-galaxies-react.png)
 
 # 📝 Overhead View of the Project
 
