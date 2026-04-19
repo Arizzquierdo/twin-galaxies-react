@@ -164,3 +164,12 @@ TWIN-GALAXIES-REACT
 - 📖 Stack Overflow - Debugging
 - 📖 REACT.DEV - Build a React App from Scratch
 
+## 📥 Import & Export Example Files (UT4)
+
+De acuerdo a los requerimientos de la UT4, a continuación se enlazan los archivos de ejemplo válidos para importar datos dinámicamente en el Foro de la aplicación:
+
+- [datos.json](public/datos.json)
+- [datos.xml](public/datos.xml)
+- [datos.csv](public/datos.csv)
+
+
