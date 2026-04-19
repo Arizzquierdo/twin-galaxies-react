@@ -12,7 +12,7 @@ export const saveFileInFormat = async (format, data, fileName = "data.json") => 
       acceptedType = {
         "application/json": [".json"],
       };
-      content = JSON.stringify(data, null, 2); // JSON data should be passed as JSON object
+      content = JSON.stringify(data, null, 2);
       break;
     case "xml":
       description = "XML";
@@ -20,21 +20,41 @@ export const saveFileInFormat = async (format, data, fileName = "data.json") => 
         "application/xml": [".xml"],
         "text/xml": [".xml"],
       };
-      content = data; // XML data should be passed as a string
+      content = data;
       break;
     case "csv":
       description = "CSV";
       acceptedType = {
         "text/csv": [".csv"],
       };
-      content = data; // CSV data should be passed as a string
+      content = data;
       break;
     case "ods":
       description = "ODS";
       acceptedType = {
         "application/vnd.oasis.opendocument.spreadsheet": [".ods"],
       };
-      // For ODS, data is already passed as a Uint8Array buffer
+      content = data;
+      break;
+    case "txt":
+      description = "Text";
+      acceptedType = {
+        "text/plain": [".txt"],
+      };
+      content = data;
+      break;
+    case "md":
+      description = "Markdown";
+      acceptedType = {
+        "text/markdown": [".md"],
+      };
+      content = data;
+      break;
+    case "pdf":
+      description = "PDF";
+      acceptedType = {
+        "application/pdf": [".pdf"],
+      };
       content = data;
       break;
     default:
