@@ -163,6 +163,9 @@ TWIN-GALAXIES-REACT
 - [datos.xml](public/datos.xml)
 - [datos.csv](public/datos.csv)
 - [datos.ods](public/datos.ods)
+- [datos.md](public/datos.md)
+- [datos.txt](public/datos.txt)
+- [datos.pdf](public/datos.pdf)
 
 ## 📚 Sources / References 
 
