@@ -7,6 +7,10 @@
 ![CSS](https://img.shields.io/badge/CSS-orange?logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-orange?logo=javascript&logoColor=white)
 
+#Hosting URL
+
+https://twin-galaxies.web.app
+
 # 📝 Overhead View of the Project
 
 This project is a web application inspired by Twin Galaxies, the iconic organization that tracks and verifies videogame world records.
